@@ -1,0 +1,167 @@
+* {
+  font-family: Inter;
+}
+
+.sec1 {
+  background-image: url(../resources/Banner\ Image.png);
+  width: 50%;
+  height: 50vh;
+  border-radius: 8px;
+  margin: 40px auto;
+}
+
+.happy {
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.sec3 {
+  background-color: orange;
+}
+
+/* secoff styles */
+
+.offsec {
+  align-items: center;
+}
+
+#off {
+  color: red;
+  font-size: 45px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Inter;
+  margin-bottom: 0;
+}
+
+#holi {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  font-family: Inter;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+#all {
+  font-size: 40px;
+  text-align: center;
+  font-family: Inter;
+  margin-top: 5px;
+}
+
+#new {
+  margin-left: 300px;
+}
+
+/* sec2 styles */
+
+.sec2 {
+  background-image: url(resources/Vectorrr.png);
+  width: 50%;
+  height: 50vh;
+  border-radius: 8px;
+  margin: 40px auto;
+}
+
+#wel {
+  color: white;
+}
+
+#wel2 {
+  color: white;
+}
+
+#join {
+  color: white;
+  text-decoration: none;
+}
+
+/* sec3 styles */
+
+.sec3 {
+  margin: 5px 200px;
+}
+
+.s3 {
+  text-align: center;
+  font-family: Inter;
+  font-size: 22px;
+}
+
+.s {
+  color: red;
+}
+
+#join {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin: 5px 200px;
+}
+
+/* sec4 styles */
+
+.sec4 {
+  display: flex;
+  justify-content: center;
+}
+
+/* sec5 style */
+
+.sale {
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 40px;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.sale-description {
+  text-align: center;
+  margin: 0 400px;
+  color: gray;
+}
+
+#redbox {
+  max-width: 80%;
+  margin-left: 150px;
+  z-index: 2;
+  position: relative;
+  margin-top: -10px;
+}
+
+#rec {
+  position: absolute;
+  margin-left: 1018px;
+  height: 300px;
+  margin-top: 480px;
+  z-index: 1;
+}
+
+#grp {
+  height: 20%;
+  width: 10%;
+  position: relative;
+  margin-left: 950px;
+  margin-top: 550px;
+  z-index: 3;
+}
+
+#app {
+  max-width: 30%;
+  height: auto;
+  margin-left: 150px;
+  margin-top: 450px;
+  z-index: 4;
+  position: absolute;
+}
+
+/* footer styles */
+
+.footer {
+  background-color: black;
+}
