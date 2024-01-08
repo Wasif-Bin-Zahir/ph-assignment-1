@@ -160,6 +160,62 @@
   position: absolute;
 }
 
+/* sec6 styles */
+
+.sec6 {
+  margin-left: 400px;
+}
+
+.im {
+  max-width: 50%;
+  height: 200px;
+  padding: 10px;
+}
+
+/* sec7 design */
+
+.sec7 {
+  background-color: antiquewhite;
+  margin: 5px 100px;
+}
+
+#vee {
+  margin: 5px 550px;
+  position: relative;
+  max-width: 100px;
+  height: auto;
+}
+
+#su {
+  text-align: center;
+  font-size: 30px;
+}
+
+#do {
+  margin: 0 200px;
+  text-align: center;
+}
+
+#bb1 {
+    position: relative;
+  border-radius: 50px;
+  width: 448px;
+  height: 52px;
+  margin: 10px 0px 20px -500px;
+  z-index: 1;
+}
+
+#bb2 {
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  width: 200px;
+  height: 52px;
+  z-index: 2;
+  margin-left: 700px;
+  margin-top: 10px;
+  position: relative;
+
+}
 /* footer styles */
 
 .footer {
